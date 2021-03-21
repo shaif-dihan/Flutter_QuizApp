@@ -4,6 +4,10 @@ Simple Quiz App developed using Flutter Framework.
 
 Here scores are added while answering the given Questions, to result a Final Output.
 
+
+![app](https://user-images.githubusercontent.com/16855188/111912116-6805c900-8a92-11eb-8f68-d7b772336760.JPG)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
