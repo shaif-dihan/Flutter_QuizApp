@@ -1,6 +1,6 @@
 # flutter_app
 
-Simple Quiz App developed using Flutter Framework.
+Simple Quiz App developed using Flutter.
 
 Here scores are added while answering the given Questions, to result a Final Output.
 
