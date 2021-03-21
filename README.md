@@ -1,6 +1,8 @@
 # flutter_app
 
-A new Flutter project.
+Simple Quiz App developed using Flutter Framework.
+
+Here scores are added while answering the given Questions, to result a Final Output.
 
 ## Getting Started
 
